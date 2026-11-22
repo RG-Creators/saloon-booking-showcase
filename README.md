@@ -14,7 +14,7 @@
 
 The **Saloon & Spa Booking Platform** ecosystem is engineered around an isolated multi-tenant architecture designed to scale seamlessly across independent salons, spas, and multi-location grooming franchises:
 
-`
+```
 +-----------------------------------------------------------------------------------------+
 |                                LARAVEL MULTI-TENANT BACKEND                             |
 |       - Global Tenant Partitioning & Multi-Branch Database Scoping                      |
@@ -33,7 +33,7 @@ The **Saloon & Spa Booking Platform** ecosystem is engineered around an isolated
 |  - Multi-Service Add-on Selection       |     |  - Real-Time Revenue & Tip Analytics    |
 |  - Digital Checkout & Status Tracking   |     |  - Staff Attendance & Commission Ledger |
 +-----------------------------------------+     +-----------------------------------------+
-`
+```
 
 ---
 
